@@ -1,6 +1,6 @@
 # AI Camp 2018
 
-![alt text](https://media0.giphy.com/media/3ornk1yFi5KuWbMUUw/giphy.gif "Logo Title Text 1")
+![alt text](./crushing.gif "Logo Title Text 1")
 
 
 ## ML5.jS
