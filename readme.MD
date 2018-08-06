@@ -1,8 +1,5 @@
 # AI Camp 2018
 
-![alt text](crushing.gif "Logo Title Text 1")
-
-
 ## ML5.jS
 ML5.js is a framework on top of tensorflow.js used for building machine learning models on the web.
 https://ml5js.org/
