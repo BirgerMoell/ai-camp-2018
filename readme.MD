@@ -1,6 +1,6 @@
 # AI Camp 2018
 
-![alt text](./crushing.gif "Logo Title Text 1")
+![alt text](crushing.gif "Logo Title Text 1")
 
 
 ## ML5.jS
